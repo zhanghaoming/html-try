@@ -10,3 +10,9 @@ C:\Users\zo\documents\visual studio 2013\Projects\FileSystem\FileSystem\obj\Rele
 F:\git\try\FileSystem\FileSystem\bin\Release\FileSystem.exe.config
 F:\git\try\FileSystem\FileSystem\obj\Release\FileSystem.exe
 F:\git\try\FileSystem\FileSystem\obj\Release\FileSystem.pdb
+F:\git\try\FileSystem\FileSystem\bin\Release\FileSystem.exe
+F:\git\try\FileSystem\FileSystem\bin\Release\FileSystem.pdb
+F:\git\try\FileSystem\FileSystem\obj\Release\FileSystem.csprojResolveAssemblyReference.cache
+F:\git\try\FileSystem\FileSystem\obj\Release\FileSystem.Form1.resources
+F:\git\try\FileSystem\FileSystem\obj\Release\FileSystem.Properties.Resources.resources
+F:\git\try\FileSystem\FileSystem\obj\Release\FileSystem.csproj.GenerateResource.Cache

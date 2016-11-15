@@ -119,7 +119,7 @@ namespace FileSystem
             public string Name;
             public int next;
         }
-
+        static int nouse;
         static string path;
         static string newPathName;
         static string newFileName;
@@ -446,7 +446,7 @@ namespace FileSystem
         {
             if (treeView1.SelectedNode == null)
             {
-                MessageBox.Show("请选择一个节点", "提示信息",
+                MessageBox.Show("请选择一个节点", "提示",
                 MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
